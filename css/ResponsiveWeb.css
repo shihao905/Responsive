@@ -92,7 +92,7 @@
 	}
 
 	.footerList li {
-		background: url(img/border-dark.png) repeat-x 0 bottom;
+		background: url(../img/border-dark.png) repeat-x 0 bottom;
 	}
 
 	#footer h3 {
@@ -255,7 +255,7 @@
 	}
 
 	.footerList li {
-		background: url(img/border-dark.png) repeat-x 0 bottom;
+		background: url(../img/border-dark.png) repeat-x 0 bottom;
 	}
 
 	#footer h3 {
@@ -542,7 +542,7 @@
 	}
 
 	.footerList li {
-		background: url(img/pipe-dark.png) repeat-y right 0;
+		background: url(../img/pipe-dark.png) repeat-y right 0;
 		display: inline-block;
 		padding: 2px 5px 2px 2px;
 		margin-bottom: 2px;
@@ -885,7 +885,7 @@
 }
 
 html {
-	background: url(img/html.png);
+	background: url(../img/html.png);
 }
 
 body,h1,h2,h3,h4,h5,h6,p,dl,dd,ul,ol,form,input,textarea,th,td {
@@ -945,7 +945,7 @@ body,button,input,select,textarea {
 }
 /*Nav*/
 #logo {
-	background: url(img/logo.png);
+	background: url(../img/logo.png);
 }
 
 #Nav {
@@ -953,7 +953,7 @@ body,button,input,select,textarea {
 	position: fixed;
 	top: 0;
 	left: 0;
-	background: url(img/bj2.png);
+	background: url(../img/bj2.png);
 	width: 100%;
 	box-shadow: 0 0 10px rgba(0,0,0,.5);
 	z-index: 5;
@@ -972,7 +972,7 @@ body,button,input,select,textarea {
 	float: left;
 	padding: 5px 8px 5px 6px;
 	color: #3c3c3c;
-	background: url(img/bj2.png) no-repeat right -76px;
+	background: url(../img/bj2.png) no-repeat right -76px;
 }
 
 .NavLList h5 {
@@ -987,7 +987,7 @@ body,button,input,select,textarea {
 	float: left;
 	width: 38px;
 	height: 30px;
-	background: url(img/bj.png) no-repeat 0 -401px;
+	background: url(../img/bj.png) no-repeat 0 -401px;
 	zoom: .7;
 	margin: 3px 0 0 -6px;
 	-moz-transform: scale(.7);
@@ -1015,7 +1015,7 @@ body,button,input,select,textarea {
 
 .NavRist .btn3 {
 	padding: 4px 40px 4px 10px;
-	background: url(img/bj2.png) no-repeat right -161px;
+	background: url(../img/bj2.png) no-repeat right -161px;
 	color: #fff;
 	border-color: #538402;
 	background-color: #9fc343;
@@ -1024,7 +1024,7 @@ body,button,input,select,textarea {
 /*header*/
 #header {
 	border-bottom: 1px solid #aaa;
-	background: url(img/headerbj.png) #0077a2;
+	background: url(../img/headerbj.png) #0077a2;
 	box-shadow: inset 0 0 20px #00506c;
 	padding-top: 57px;
 	font-family: "museo-sans",Arial,sans-serif;
@@ -1065,21 +1065,21 @@ body,button,input,select,textarea {
 	float: left;
 	width: 37px;
 	height: 32px;
-	background: url(img/bj2.png) no-repeat 0 -232px;
+	background: url(../img/bj2.png) no-repeat 0 -232px;
 }
 
 #header .span2 strong {
 	float: left;
 	width: 37px;
 	height: 32px;
-	background: url(img/bj2.png) no-repeat -224px -232px;
+	background: url(../img/bj2.png) no-repeat -224px -232px;
 }
 
 #header .span3 strong {
 	float: left;
 	width: 37px;
 	height: 32px;
-	background: url(img/bj2.png) no-repeat -410px -232px;
+	background: url(../img/bj2.png) no-repeat -410px -232px;
 }
 
 #header .btn {
@@ -1107,7 +1107,7 @@ body,button,input,select,textarea {
 	line-height: 58px;
 	text-indent: 16px;
 	text-align: left;
-	background: url(img/bj2.png) right -286px,linear-gradient(to bottom,#aad061 0%,#7cb72f 100%);
+	background: url(../img/bj2.png) right -286px,linear-gradient(to bottom,#aad061 0%,#7cb72f 100%);
 }
 
 #header .btn2 {
@@ -1116,7 +1116,7 @@ body,button,input,select,textarea {
 	line-height: 14px;
 	text-decoration: underline;
 	color: #fff;
-	background: url(img/bj2.png) no-repeat 0 -297px;
+	background: url(../img/bj2.png) no-repeat 0 -297px;
 	font-size: 18px;
 }
 /*end header*/
@@ -1150,19 +1150,19 @@ body,button,input,select,textarea {
 .contentList .div1 .pic {
 	width: 105px;
 	height: 70px;
-	background: url(img/bj.png) no-repeat 0 -552px;
+	background: url(../img/bj.png) no-repeat 0 -552px;
 }
 
 .contentList .div2 .pic {
 	width: 90px;
 	height: 70px;
-	background: url(img/bj.png) no-repeat 0 -753px;
+	background: url(../img/bj.png) no-repeat 0 -753px;
 }
 
 .contentList .div3 .pic {
 	width: 104px;
 	height: 70px;
-	background: url(img/bj.png) no-repeat 0 -960px;
+	background: url(../img/bj.png) no-repeat 0 -960px;
 }
 
 .contentList h3 {
@@ -1181,7 +1181,7 @@ body,button,input,select,textarea {
 
 #contentList .mnlu {
 	height: 50px;
-	background: url(img/bj.png) 0 -870px;
+	background: url(../img/bj.png) 0 -870px;
 	text-align: center;
 	margin-top: 40px;
 }
@@ -1191,7 +1191,7 @@ body,button,input,select,textarea {
 	height: 50px;
 	padding: 0 70px 0 10px;
 	line-height: 50px;
-	background: url(img/bj.png) no-repeat right -1049px,url(img/html.png);
+	background: url(../img/bj.png) no-repeat right -1049px,url(../img/html.png);
 	font-size: 30px;
 	color: #3c3c3c;
 	font-weight: bold;
@@ -1323,7 +1323,7 @@ body,button,input,select,textarea {
 	line-height: 58px;
 	text-indent: 16px;
 	text-align: left;
-	background: url(img/bj2.png) right -286px,linear-gradient(to bottom,#aad061 0%,#7cb72f 100%);
+	background: url(../img/bj2.png) right -286px,linear-gradient(to bottom,#aad061 0%,#7cb72f 100%);
 }
 
 .bottom .more {
@@ -1339,48 +1339,48 @@ body,button,input,select,textarea {
 
 .more .a1 {
 	width: 140px;
-	background: url(img/bj2.png) no-repeat 0 -361px;
+	background: url(../img/bj2.png) no-repeat 0 -361px;
 }
 
 .more .a2 {
 	width: 176px;
-	background: url(img/bj2.png) no-repeat 0 -429px;
+	background: url(../img/bj2.png) no-repeat 0 -429px;
 }
 
 .more .a3 {
 	width: 164px;
-	background: url(img/bj2.png) no-repeat -143px -361px;
+	background: url(../img/bj2.png) no-repeat -143px -361px;
 }
 
 .more .a4 {
 	width: 74px;
-	background: url(img/bj2.png) no-repeat -342px -361px;
+	background: url(../img/bj2.png) no-repeat -342px -361px;
 }
 
 .more .a5 {
 	width: 235px;
-	background: url(img/bj2.png) no-repeat -181px -429px;
+	background: url(../img/bj2.png) no-repeat -181px -429px;
 }
 /*end content*/
 /*footer*/
 #footer {
-	background: url(img/footer.png);
+	background: url(../img/footer.png);
 }
 
 #last .connect a:nth-of-type(1) {
-	background: url(img/bj.png) no-repeat;
+	background: url(../img/bj.png) no-repeat;
 }
 
 #last .connect a:nth-of-type(2) {
-	background: url(img/bj.png) no-repeat -100px 0;
+	background: url(../img/bj.png) no-repeat -100px 0;
 }
 
 #last .connect a:nth-of-type(3) {
-	background: url(img/bj.png) no-repeat -200px 0;
+	background: url(../img/bj.png) no-repeat -200px 0;
 }
 
 #last .connect a:nth-of-type(4) {
-	background: url(img/bj.png) no-repeat -300px 0;
+	background: url(../img/bj.png) no-repeat -300px 0;
 }
 
 #last .connect a:nth-of-type(1):hover {
@@ -1439,7 +1439,7 @@ body,button,input,select,textarea {
 
 #last {
 	float: right;
-	background: url(img/pipe-dark.png) repeat-y left 0;
+	background: url(../img/pipe-dark.png) repeat-y left 0;
 }
 
 #last h4 {
@@ -1448,14 +1448,14 @@ body,button,input,select,textarea {
 	text-indent: 6px;
 	color: #fff;
 	margin-bottom: 10px;
-	background: url(img/border-dark.png) repeat-x 0 bottom;
+	background: url(../img/border-dark.png) repeat-x 0 bottom;
 }
 
 #last h4 span {
 	float: left;
 	width: 40px;
 	height: 27px;
-	background: url(img/bj.png) no-repeat 0 -152px;
+	background: url(../img/bj.png) no-repeat 0 -152px;
 }
 
 #last .form {
@@ -1469,7 +1469,7 @@ body,button,input,select,textarea {
 
 #last .header {
 	padding-bottom: 15px;
-	background: url(img/border-dark.png) repeat-x 0 bottom;
+	background: url(../img/border-dark.png) repeat-x 0 bottom;
 }
 
 #last .text {
@@ -1495,7 +1495,7 @@ body,button,input,select,textarea {
 
 #last .connect {
 	text-align: center;
-	background: url(img/border-dark.png) repeat-x 0 bottom;
+	background: url(../img/border-dark.png) repeat-x 0 bottom;
 	padding: 4px 0 15px 0;
 	white-space: nowrap;
 }
@@ -1507,14 +1507,14 @@ body,button,input,select,textarea {
 #last .flags {
 	padding: 15px 0 15px 0;
 	text-align: center;
-	background: url(img/border-dark.png) repeat-x 0 bottom;
+	background: url(../img/border-dark.png) repeat-x 0 bottom;
 }
 
 .flags li a {
 	display: inline-block;
 	width: 40px;
 	height: 32px;
-	background: url(img/bj.png) no-repeat;
+	background: url(../img/bj.png) no-repeat;
 }
 
 #last .logo {
@@ -1525,7 +1525,7 @@ body,button,input,select,textarea {
 #last .logo h2 {
 	width: 225px;
 	height: 60px;
-	background: url(img/lastlogo.png) no-repeat;
+	background: url(../img/lastlogo.png) no-repeat;
 }
 
 #footer h3 {
